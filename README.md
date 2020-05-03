@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-## Singapore Housing & Deveoplment Board - BTO Recommender System
+## Makan Buddy - Intelligent Restaurant Discovery and Reservation System
 
 <img src="Miscellaneous/MakanBuddy.png"
      style="float: left; margin-right: 0px;" />
@@ -21,15 +21,14 @@ One perpetual problem faced by diners is having to make dining choices and the n
 | Official Full Name  | Student ID  | Work Items | 
 | :------------ |:---------------:| :-----| 
 | Tan Wei Lian | A0048135J | Restaurant Search Agent, Restaurant Similarity Model|
-| Tang Meng | A0137099U | Angular Web Application,JBPM| 
-| Leong Jun Hun, Darryl | A0195318X | Project Report, Knowledge Modelling and Drools| 
+| Tang Meng | A0137099U | Slack Chat Bot, User Guide|
+| Leong Jun Hun, Darryl | A0195318X | Web Scraping, TAGUI Development, Project Report| 
 
 ---
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-<a href="https://youtu.be/vooP6BmJ4l4"><img src="Miscellaneous/YTDeck Sorcery.png"
-     style="float: left; margin-right: 0px;" /></a>
+`You can download the video under the Report Folder.`
 
 ---
 
