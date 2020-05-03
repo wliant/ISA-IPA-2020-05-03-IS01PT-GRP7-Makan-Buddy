@@ -28,7 +28,7 @@ One perpetual problem faced by diners is having to make dining choices and the n
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-`You can download the video under the Report Folder.`
+`You can view the video: ` https://www.youtube.com/watch?v=ZxQABx7iIR4&feature=youtu.be
 
 ---
 
