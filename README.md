@@ -7,7 +7,7 @@
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-Singapore is widely regarded as a food capital due to the wide variety of cuisines available due to our multi ethnic composition. The food and beverage industry in Singapore was worth $8.3 billion dollars in 2019 and is expected to grow 2.1% over the next five years.  This growth is aligned to the exponential global food and beverages (F&B) growth, alongside the growth in urban populations worldwide. Individuals are becoming more discerning, driving demand more nutritious, healthy food.
+Singapore is widely regarded as a food capital due to the wide variety of cuisines available because of our multi ethnic composition. The food and beverage industry in Singapore was worth $8.3 billion dollars in 2019 and is expected to grow 2.1% over the next five years.  This growth is aligned to the exponential global food and beverages (F&B) growth, alongside the growth in urban populations worldwide. Individuals are becoming more discerning, driving demand more nutritious, healthy food.
 
 Competition is stiff in the F&B industry, with over 6,500 establishments. An increase in the number of competitors in the market offering similar and new products that are competitively priced could have also posed a challenge for many F&B operators here, and many new F&B joints struggle to differentiate themselves and establish a following. Some of the challenges which F&B might face is high rental and food cost, but most critically the lack of manpower.
 
