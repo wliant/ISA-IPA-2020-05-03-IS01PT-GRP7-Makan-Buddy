@@ -21,7 +21,7 @@ One perpetual problem faced by diners is having to make dining choices and the n
 | Official Full Name  | Student ID  | Work Items | 
 | :------------ |:---------------:| :-----| 
 | Tan Wei Lian | A0048135J | Restaurant Search Agent, Restaurant Similarity Model|
-| Tang Meng | A0137099U | Slack Chat Bot, User Guide|
+| Tang Meng | A0137099U | Slack Chat Bot, Video, User Guide|
 | Leong Jun Hun, Darryl | A0195318X | Web Scraping, TAGUI Development, Project Report| 
 
 ---
