@@ -39,7 +39,7 @@ One perpetual problem faced by diners is having to make dining choices and the n
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/musicrokr/IRS-MR-2019-01-19-IS1PT-GRP-TheSundayLunactics-Harmony/blob/master/ProjectReport/The%20Sunday%20Lunatics%20%20-%20Harmony%20Project%20Report.pdf>
+`<Github File Link>` : <https://github.com/wliant/ISA-IPA-2020-05-03-IS01PT-GRP7-Makan-Buddy/blob/master/ProjectReport/ProjectReport.pdf>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
